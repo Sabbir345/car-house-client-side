@@ -1,0 +1,18 @@
+.login-form{
+    border-style: 1px dotted black;
+}
+
+.nomember {
+    background-color: #e4dede;
+    padding: 10px;
+    padding-top: 20px;
+    border-radius: 0px 0px 5px 5px;
+}
+
+.nomember a{
+    text-decoration: none;
+}
+
+.login-form{
+    border: 2px solid black;
+}

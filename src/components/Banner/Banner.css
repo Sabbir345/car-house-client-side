@@ -1,0 +1,24 @@
+.top-banner{
+	background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 6%;
+    padding-bottom: 25%;
+}
+.org-title{
+	color: black;
+	font-size: 52px;
+	font-weight: 800;
+}
+.org-motto{
+	color: black;
+	font-size: 20px;
+}
+.our-services{
+	border: 2px solid black;
+    padding-top: 12px;
+    width: 46%;
+}
+.secvice{
+	justify-content: center;
+    display: flex;
+}
